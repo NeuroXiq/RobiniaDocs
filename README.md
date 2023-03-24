@@ -1,2 +1,2 @@
 # RobiniaDocs
-RobiniaDocs is a free online .NET Core project documentation hosting platform
+RobiniaDocs is a free online documentation platform for .NET Core projects
