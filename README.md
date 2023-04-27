@@ -8,8 +8,8 @@ What Robinia want to achieve:
 2. API browser is hosted online and available by url
 
 Example: 
-[Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
-[Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
+- [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
+- [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
 
 ---
 Robinia docs is a free online documentation hosting platform for .NET Core projects.
