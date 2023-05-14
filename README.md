@@ -3,9 +3,8 @@
 ### [www.robiniadocs.com](https://www.robiniadocs.com)
 
 You have a .NET Core project and do not have any online API explorer? - Robinia was created exactly for this case.
-RobiniaDocfx is a simple documentation hosting platform for .NET Core projects.
-
-If You want to host Your API browser or want a temporary online documentation (until You create own) try RobiniaDocs!
+RobiniaDocs is a simple documentation hosting platform for .NET Core projects.
+If You want to host API browser or a temporary online documentation try RobiniaDocs!
 
 Adventages of using Robinia:
 - Robinia generates [sitemap.xml](https://www.robiniadocs.com/sitemap.xml) to facilitate web crawlers index Your project more easily
@@ -14,6 +13,10 @@ Adventages of using Robinia:
 
 RobiniaDocs tries to be as simple as possible, You can host API Explorer in 2 minutes (please see first video). Its 100% free.
 
+Example: 
+- [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
+- [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
+
 But if You want to:
 - Add arbitrary HTML
 - Execute custom Javascript
@@ -21,11 +24,6 @@ But if You want to:
 - Use other generators instead of docfx
 
 RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
-
-Example: 
-- [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
-- [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
-
 ---
 
 ## Current version of Robinia is BETA version.
