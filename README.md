@@ -25,6 +25,7 @@ But if You want to:
 - Use other generators instead of docfx
 
 RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
+
 ---
 
 ## Current version of Robinia is BETA version.
