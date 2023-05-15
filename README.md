@@ -28,8 +28,6 @@ RobiniaDocs probably will not be the best option for now, consider other hosting
 
 ---
 
-## Current version of Robinia is BETA version.
-
 ### Example deployed projects:
 
 |Name|Robinia Url|Github|
