@@ -1,10 +1,11 @@
-# Welcome on RobiniaDocs
+# Welcome on RobiniaDocs!
+
+![Recording 2023-05-17 114929](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
 
 ### [www.robiniadocs.com](https://www.robiniadocs.com)
 RobiniaDocs is a simple documentation hosting platform for .NET Core projects.
 
-If You have a .NET Core project and do not any online API explorer - Robinia was created exactly for this case.
-If You want to host API browser or a temporary online documentation try RobiniaDocs!
+If You have a small or medium size .NET Core project and want to host API browser with documentation - try RobiniaDocs!
 
 Adventages of using Robinia:
 - Robinia generates [sitemap.xml](https://www.robiniadocs.com/sitemap.xml) to facilitate web crawlers index Your project more easily
