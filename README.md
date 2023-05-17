@@ -1,10 +1,9 @@
 # Welcome on RobiniaDocs
 
 ### [www.robiniadocs.com](https://www.robiniadocs.com)
-
-If You have a .NET Core project and do not any online API explorer - Robinia was created exactly for this case.
 RobiniaDocs is a simple documentation hosting platform for .NET Core projects.
 
+If You have a .NET Core project and do not any online API explorer - Robinia was created exactly for this case.
 If You want to host API browser or a temporary online documentation try RobiniaDocs!
 
 Adventages of using Robinia:
