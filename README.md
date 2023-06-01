@@ -33,6 +33,7 @@ To host API documentation without registering on RobiniaDocs, please create a ne
 1. Edit 'projects.md' file and add a new row in the  table
 2. In  commit  message please add following informations:
 
+```
 Project Name: project_name
 Robinia Url Prefix: url_prefix
 Github Url: github_url
@@ -40,6 +41,7 @@ Description: description
 Nuget Package Name: package_name (Install-Package 'package_name')
 (if project does not have nuget package please add link to binary files like line below)
 Dll Xml files: <url to .dll and .xml files)
+```
 
 For Example:
 
