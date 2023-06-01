@@ -10,6 +10,8 @@ If You have a small or medium size .NET Core project and want to host API browse
 
 **[RobiniaDocs - Tutorial](https://www.robiniadocs.com/robiniadocs/d/articles/intro.html)**
 
+---
+
 Adventages of using Robinia:
 - Robinia generates [sitemap.xml](https://www.robiniadocs.com/sitemap.xml) to facilitate web crawlers index Your project more easily
 - Centralized place for hosting API explorer/documentation online
@@ -20,14 +22,6 @@ RobiniaDocs tries to be as simple as possible, You can host API Explorer in 2 mi
 Example: 
 - [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
 - [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
-
-But if You want to:
-- Add arbitrary HTML
-- Execute custom Javascript
-- Has full control over generated documents by docfx
-- Use other generators instead of docfx
-
-RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
 
 # Create Documentation from Pull Request
 To host API documentation without registering on RobiniaDocs, please create a new pull request.
@@ -53,6 +47,14 @@ Github Url: https://github.com/NeuroXiq/Arctium
 Description: Arctium is a simple crypto library. It provides various cryptographic functions, ciphers, connection protocols
 Nuget Package Name: Arctium.Shared
 ```
+
+But if You want to:
+- Add arbitrary HTML
+- Execute custom Javascript
+- Has full control over generated documents by docfx
+- Use other generators instead of docfx
+
+RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
 
 ---
 
