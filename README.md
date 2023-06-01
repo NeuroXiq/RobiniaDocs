@@ -48,6 +48,8 @@ Description: Arctium is a simple crypto library. It provides various cryptograph
 Nuget Package Name: Arctium.Shared
 ```
 
+---
+
 But if You want to:
 - Add arbitrary HTML
 - Execute custom Javascript
