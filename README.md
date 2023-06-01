@@ -17,7 +17,7 @@ Adventages of using Robinia:
 - Centralized place for hosting API explorer/documentation online
 - No need to maintain code for documents generation and publishing
 
-RobiniaDocs tries to be as simple as possible, You can host API Explorer in 2 minutes (please see first video). **Its 100% free**.
+RobiniaDocs tries to be as simple as possible, You can host API Explorer in 2 minutes (please see first video).\**Its 100% free**.
 
 Example: 
 - [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
