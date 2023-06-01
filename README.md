@@ -28,7 +28,7 @@ But if You want to:
 
 RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
 
-# Pull Request
+# Create Documentation from Pull Request
 To host API documentation without registering on RobiniaDocs, please create a new pull request.
 1. Edit 'projects.md' file and add a new row in the  table
 2. In  commit  message please add following informations:
