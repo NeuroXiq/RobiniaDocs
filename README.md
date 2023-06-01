@@ -48,7 +48,7 @@ For Example:
 ```
 Project Name: Arctium Crypto Library
 Robinia Url Prefix: arctium
-Github Url: [github_url](https://github.com/NeuroXiq/Arctium)
+Github Url: https://github.com/NeuroXiq/Arctium
 Description: Arctium is a simple crypto library. It provides various cryptographic functions, ciphers, connection protocols
 Nuget Package Name: Arctium.Shared
 ```
