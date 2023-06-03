@@ -7,7 +7,7 @@
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs is a simple documentation hosting platform for .NET Core projects
 
-**[RobiniaDocs - Website](https://www.robiniadocs.com)**
+**[RobiniaDocs - Website](https://www.robiniadocs.com)**\
 **[RobiniaDocs - Tutorial](https://www.robiniadocs.com/robiniadocs/d/articles/intro.html)**
 
 ---
