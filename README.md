@@ -65,46 +65,46 @@ RobiniaDocs probably will not be the best option for now, consider other hosting
 
 |Name|Robinia Url|Github|
 |-|-|-|
-|Guard.Net|[RobiniaDocs - Guard.Net](https://www.robiniadocs.com/d/guardnet/index.html)| [Github](Guard.Net)|
-|Algorithmia|[RobiniaDocs - Algorithmia](https://www.robiniadocs.com/d/algorithmi/index.html)| [Github](https://github.com/SolutionsDesign/Algorithmia)|
-|Towel |[RobiniaDocs - Towel ](https://www.robiniadocs.com/d/towel/index.html)| [Github](https://github.com/ZacharyPatten/Towel)|
-|Akade.IndexedSet|[RobiniaDocs - Akade.IndexedSet](https://www.robiniadocs.com/d/akadeinde/index.html)| [Github](https://github.com/akade/Akade.IndexedSet)|
-|SliccDB|[RobiniaDocs - SliccDB](https://www.robiniadocs.com/d/sliccdb/index.html)| [Github](https://github.com/pmikstacki/SliccDB)|
-|StringDB|[RobiniaDocs - StringDB](https://www.robiniadocs.com/d/stringdb/index.html)| [Github](https://github.com/SirJosh3917/StringDB)|
-|Ninject|[RobiniaDocs - Ninject](https://www.robiniadocs.com/d/ninject/index.html)| [Github](https://github.com/ninject/ninject)|
-|Spring.Core|[RobiniaDocs - Spring.Core](https://www.robiniadocs.com/d/springcor/index.html)| [Github](https://github.com/spring-projects/spring-net)|
-|LightInject |[RobiniaDocs - LightInject ](https://www.robiniadocs.com/d/lightinjec/index.html)| [Github](https://github.com/seesharper/LightInject)|
-|Stashbox |[RobiniaDocs - Stashbox ](https://www.robiniadocs.com/d/stashbox/index.html)| [Github](https://github.com/z4kn4fein/stashbox)|
-|Markdig |[RobiniaDocs - Markdig ](https://www.robiniadocs.com/d/markdig/index.html)| [Github](https://github.com/xoofx/markdig)|
-|PreMailer.Net|[RobiniaDocs - PreMailer.Net](https://www.robiniadocs.com/d/premailer/index.html)| [Github](https://github.com/milkshakesoftware/PreMailer.Net)|
-|MimeKit |[RobiniaDocs - MimeKit ](https://www.robiniadocs.com/d/mimekit/index.html)| [Github](https://github.com/jstedfast/MimeKit)|
-|StrongGrid |[RobiniaDocs - StrongGrid ](https://www.robiniadocs.com/d/stronggrid/index.html)| [Github](https://github.com/Jericho/StrongGrid)|
-|Rationals|[RobiniaDocs - Rationals](https://www.robiniadocs.com/d/rationals/index.html)| [Github](https://github.com/tompazourek/Rationals)|
-|Vim.Math3D |[RobiniaDocs - Vim.Math3D ](https://www.robiniadocs.com/d/vimmathd/index.html)| [Github](https://github.com/vimaec/math3d)|
-|NAudio |[RobiniaDocs - NAudio ](https://www.robiniadocs.com/d/naudio/index.html)| [Github](https://github.com/naudio/NAudio)|
-|TinyMapper |[RobiniaDocs - TinyMapper ](https://www.robiniadocs.com/d/tinymapper/index.html)| [Github](https://github.com/TinyMapper/TinyMapper)|
-|AgileObjects.AgileMapper|[RobiniaDocs - AgileObjects.AgileMapper](https://www.robiniadocs.com/d/agileobjec/index.html)| [Github](https://github.com/agileobjects/AgileMapper)|
-|DateTimeExtensions|[RobiniaDocs - DateTimeExtensions](https://www.robiniadocs.com/d/datetimeex/index.html)| [Github](https://github.com/joaomatossilva/DateTimeExtensions)|
-|Exceptionless.DateTimeExtensions|[RobiniaDocs - Exceptionless.DateTimeExtensions](https://www.robiniadocs.com/d/exceptionl/index.html)| [Github](https://github.com/exceptionless/Exceptionless.DateTimeExtensions)|
-|Tiny.RestClient|[RobiniaDocs - Tiny.RestClient](https://www.robiniadocs.com/d/tinyrestc/index.html)| [Github](https://github.com/jgiacomini/Tiny.RestClient)|
-|Http.fs|[RobiniaDocs - Http.fs](https://www.robiniadocs.com/d/httpfs/index.html)| [Github](https://github.com/haf/Http.fs)|
-|RestSharp |[RobiniaDocs - RestSharp ](https://www.robiniadocs.com/d/restsharp/index.html)| [Github](https://github.com/restsharp/RestSharp)|
-|Refit |[RobiniaDocs - Refit ](https://www.robiniadocs.com/d/refit/index.html)| [Github](https://github.com/reactiveui/refit)|
-|RestEase |[RobiniaDocs - RestEase ](https://www.robiniadocs.com/d/restease/index.html)| [Github](https://github.com/canton7/RestEase)|
-|PhotoSauce.MagicScaler|[RobiniaDocs - PhotoSauce.MagicScaler](https://www.robiniadocs.com/d/photosauce/index.html)| [Github](https://github.com/saucecontrol/PhotoSauce)|
-|Magick.NET|[RobiniaDocs - Magick.NET](https://www.robiniadocs.com/d/magicknet/index.html)| [Github](https://github.com/dlemstra/Magick.NET)|
-|Colourful |[RobiniaDocs - Colourful ](https://www.robiniadocs.com/d/colourful/index.html)| [Github](https://github.com/tompazourek/Colourful)|
-|SharpPcap |[RobiniaDocs - SharpPcap ](https://www.robiniadocs.com/d/sharppcap/index.html)| [Github](https://github.com/dotpcap/sharppcap)|
-|Ceras |[RobiniaDocs - Ceras ](https://www.robiniadocs.com/d/ceras/index.html)| [Github](https://github.com/rikimaru0345/Ceras)|
-|protobuf-net|[RobiniaDocs - protobuf-net](https://www.robiniadocs.com/d/protobufn/index.html)| [Github](https://github.com/protobuf-net/protobuf-net)|
-|Stateless |[RobiniaDocs - Stateless ](https://www.robiniadocs.com/d/stateless/index.html)| [Github](https://github.com/dotnet-state-machine/stateless)|
-|Downloader |[RobiniaDocs - Downloader ](https://www.robiniadocs.com/d/downloader/index.html)| [Github](https://github.com/bezzad/Downloader)|
-|FluentSerializer.Json|[RobiniaDocs - FluentSerializer.Json](https://www.robiniadocs.com/d/fluentseri/index.html)| [Github](https://github.com/Marvin-Brouwer/FluentSerializer#readme)|
-|ObjectDumper.NET|[RobiniaDocs - ObjectDumper.NET](https://www.robiniadocs.com/d/objectdump/index.html)| [Github](https://github.com/thomasgalliker/ObjectDumper)|
-|FsPickler |[RobiniaDocs - FsPickler ](https://www.robiniadocs.com/d/fspickler/index.html)| [Github](https://github.com/mbraceproject/FsPickler)|
-|FileHelpers |[RobiniaDocs - FileHelpers ](https://www.robiniadocs.com/d/filehelper/index.html)| [Github](https://www.nuget.org/packages/FileHelpers/)|
-|dfghdfgh|[RobiniaDocs - dfghdfgh](https://www.robiniadocs.com/d/dfghdfgh/index.html)| [Github](dfgh)|
-|Arctium - .NET Core crypto library|[RobiniaDocs - Arctium - .NET Core crypto library](https://www.robiniadocs.com/d/arctium/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
-|Arctium.Shared|[RobiniaDocs - Arctium.Shared](https://www.robiniadocs.com/d/arctium-shared/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
-|Arctium.Cryptography|[RobiniaDocs - Arctium.Cryptography](https://www.robiniadocs.com/d/arctium-cryptography/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
-|Arctium.Standards|[RobiniaDocs - Arctium.Standards](https://www.robiniadocs.com/d/arctium-standards/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
+|Guard.Net|[RobiniaDocs - Guard.Net](https://www.robiniadocs.com/d/guardnet/api/index.html)| [Github](Guard.Net)|
+|Algorithmia|[RobiniaDocs - Algorithmia](https://www.robiniadocs.com/d/algorithmi/api/index.html)| [Github](https://github.com/SolutionsDesign/Algorithmia)|
+|Towel |[RobiniaDocs - Towel ](https://www.robiniadocs.com/d/towel/api/index.html)| [Github](https://github.com/ZacharyPatten/Towel)|
+|Akade.IndexedSet|[RobiniaDocs - Akade.IndexedSet](https://www.robiniadocs.com/d/akadeinde/api/index.html)| [Github](https://github.com/akade/Akade.IndexedSet)|
+|SliccDB|[RobiniaDocs - SliccDB](https://www.robiniadocs.com/d/sliccdb/api/index.html)| [Github](https://github.com/pmikstacki/SliccDB)|
+|StringDB|[RobiniaDocs - StringDB](https://www.robiniadocs.com/d/stringdb/api/index.html)| [Github](https://github.com/SirJosh3917/StringDB)|
+|Ninject|[RobiniaDocs - Ninject](https://www.robiniadocs.com/d/ninject/api/index.html)| [Github](https://github.com/ninject/ninject)|
+|Spring.Core|[RobiniaDocs - Spring.Core](https://www.robiniadocs.com/d/springcor/api/index.html)| [Github](https://github.com/spring-projects/spring-net)|
+|LightInject |[RobiniaDocs - LightInject ](https://www.robiniadocs.com/d/lightinjec/api/index.html)| [Github](https://github.com/seesharper/LightInject)|
+|Stashbox |[RobiniaDocs - Stashbox ](https://www.robiniadocs.com/d/stashbox/api/index.html)| [Github](https://github.com/z4kn4fein/stashbox)|
+|Markdig |[RobiniaDocs - Markdig ](https://www.robiniadocs.com/d/markdig/api/index.html)| [Github](https://github.com/xoofx/markdig)|
+|PreMailer.Net|[RobiniaDocs - PreMailer.Net](https://www.robiniadocs.com/d/premailer/api/index.html)| [Github](https://github.com/milkshakesoftware/PreMailer.Net)|
+|MimeKit |[RobiniaDocs - MimeKit ](https://www.robiniadocs.com/d/mimekit/api/index.html)| [Github](https://github.com/jstedfast/MimeKit)|
+|StrongGrid |[RobiniaDocs - StrongGrid ](https://www.robiniadocs.com/d/stronggrid/api/index.html)| [Github](https://github.com/Jericho/StrongGrid)|
+|Rationals|[RobiniaDocs - Rationals](https://www.robiniadocs.com/d/rationals/api/index.html)| [Github](https://github.com/tompazourek/Rationals)|
+|Vim.Math3D |[RobiniaDocs - Vim.Math3D ](https://www.robiniadocs.com/d/vimmathd/api/index.html)| [Github](https://github.com/vimaec/math3d)|
+|NAudio |[RobiniaDocs - NAudio ](https://www.robiniadocs.com/d/naudio/api/index.html)| [Github](https://github.com/naudio/NAudio)|
+|TinyMapper |[RobiniaDocs - TinyMapper ](https://www.robiniadocs.com/d/tinymapper/api/index.html)| [Github](https://github.com/TinyMapper/TinyMapper)|
+|AgileObjects.AgileMapper|[RobiniaDocs - AgileObjects.AgileMapper](https://www.robiniadocs.com/d/agileobjec/api/index.html)| [Github](https://github.com/agileobjects/AgileMapper)|
+|DateTimeExtensions|[RobiniaDocs - DateTimeExtensions](https://www.robiniadocs.com/d/datetimeex/api/index.html)| [Github](https://github.com/joaomatossilva/DateTimeExtensions)|
+|Exceptionless.DateTimeExtensions|[RobiniaDocs - Exceptionless.DateTimeExtensions](https://www.robiniadocs.com/d/exceptionl/api/index.html)| [Github](https://github.com/exceptionless/Exceptionless.DateTimeExtensions)|
+|Tiny.RestClient|[RobiniaDocs - Tiny.RestClient](https://www.robiniadocs.com/d/tinyrestc/api/index.html)| [Github](https://github.com/jgiacomini/Tiny.RestClient)|
+|Http.fs|[RobiniaDocs - Http.fs](https://www.robiniadocs.com/d/httpfs/api/index.html)| [Github](https://github.com/haf/Http.fs)|
+|RestSharp |[RobiniaDocs - RestSharp ](https://www.robiniadocs.com/d/restsharp/api/index.html)| [Github](https://github.com/restsharp/RestSharp)|
+|Refit |[RobiniaDocs - Refit ](https://www.robiniadocs.com/d/refit/api/index.html)| [Github](https://github.com/reactiveui/refit)|
+|RestEase |[RobiniaDocs - RestEase ](https://www.robiniadocs.com/d/restease/api/index.html)| [Github](https://github.com/canton7/RestEase)|
+|PhotoSauce.MagicScaler|[RobiniaDocs - PhotoSauce.MagicScaler](https://www.robiniadocs.com/d/photosauce/api/index.html)| [Github](https://github.com/saucecontrol/PhotoSauce)|
+|Magick.NET|[RobiniaDocs - Magick.NET](https://www.robiniadocs.com/d/magicknet/api/index.html)| [Github](https://github.com/dlemstra/Magick.NET)|
+|Colourful |[RobiniaDocs - Colourful ](https://www.robiniadocs.com/d/colourful/api/index.html)| [Github](https://github.com/tompazourek/Colourful)|
+|SharpPcap |[RobiniaDocs - SharpPcap ](https://www.robiniadocs.com/d/sharppcap/api/index.html)| [Github](https://github.com/dotpcap/sharppcap)|
+|Ceras |[RobiniaDocs - Ceras ](https://www.robiniadocs.com/d/ceras/api/index.html)| [Github](https://github.com/rikimaru0345/Ceras)|
+|protobuf-net|[RobiniaDocs - protobuf-net](https://www.robiniadocs.com/d/protobufn/api/index.html)| [Github](https://github.com/protobuf-net/protobuf-net)|
+|Stateless |[RobiniaDocs - Stateless ](https://www.robiniadocs.com/d/stateless/api/index.html)| [Github](https://github.com/dotnet-state-machine/stateless)|
+|Downloader |[RobiniaDocs - Downloader ](https://www.robiniadocs.com/d/downloader/api/index.html)| [Github](https://github.com/bezzad/Downloader)|
+|FluentSerializer.Json|[RobiniaDocs - FluentSerializer.Json](https://www.robiniadocs.com/d/fluentseri/api/index.html)| [Github](https://github.com/Marvin-Brouwer/FluentSerializer#readme)|
+|ObjectDumper.NET|[RobiniaDocs - ObjectDumper.NET](https://www.robiniadocs.com/d/objectdump/api/index.html)| [Github](https://github.com/thomasgalliker/ObjectDumper)|
+|FsPickler |[RobiniaDocs - FsPickler ](https://www.robiniadocs.com/d/fspickler/api/index.html)| [Github](https://github.com/mbraceproject/FsPickler)|
+|FileHelpers |[RobiniaDocs - FileHelpers ](https://www.robiniadocs.com/d/filehelper/api/index.html)| [Github](https://www.nuget.org/packages/FileHelpers/)|
+|dfghdfgh|[RobiniaDocs - dfghdfgh](https://www.robiniadocs.com/d/dfghdfgh/api/index.html)| [Github](dfgh)|
+|Arctium - .NET Core crypto library|[RobiniaDocs - Arctium - .NET Core crypto library](https://www.robiniadocs.com/d/arctium/api/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
+|Arctium.Shared|[RobiniaDocs - Arctium.Shared](https://www.robiniadocs.com/d/arctium-shared/api/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
+|Arctium.Cryptography|[RobiniaDocs - Arctium.Cryptography](https://www.robiniadocs.com/d/arctium-cryptography/api/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
+|Arctium.Standards|[RobiniaDocs - Arctium.Standards](https://www.robiniadocs.com/d/arctium-standards/api/index.html)| [Github](https://github.com/NeuroXiq/Arctium)|
