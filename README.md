@@ -9,12 +9,12 @@ If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs is a simple documentation hosting platform for .NET Core projects
 
 **[RobiniaDocs - Website](https://www.robiniadocs.com)**\
-**[RobiniaDocs - Tutorial](https://www.robiniadocs.com/robiniadocs/d/articles/intro.html)**
+**[RobiniaDocs - Tutorial](https://www.robiniadocs.com/d/robiniadocs/articles/intro.html)**
 
 ---
 
 Adventages of using Robinia:
-- Robinia generates [sitemap.xml](https://www.robiniadocs.com/sitemap.xml) to facilitate web crawlers index Your project more easily
+- Robinia generates [sitemap.xml](https://www.robiniadocs.com/api/other/sitemaps/sitemap.xml) to facilitate web crawlers index Your project more easily
 - Centralized place for hosting API explorer/documentation online
 - No need to maintain code for documents generation and publishing
 
