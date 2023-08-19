@@ -55,16 +55,6 @@ Nuget Package Name: Arctium.Shared
 
 ---
 
-But if You want to:
-- Add arbitrary HTML
-- Execute custom Javascript
-- Has full control over generated documents by docfx
-- Use other generators instead of docfx
-
-RobiniaDocs probably will not be the best option for now, consider other hosting platforms e.g. github pages/readthedocs
-
----
-
 ### Example deployed projects:
 
 |Name|Robinia Url|Github|
