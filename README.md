@@ -1,6 +1,7 @@
 # Welcome on RobiniaDocs!
 
 ![Recording 2023-05-17 114929](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
+![image](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/c5f849ed-2c78-4eca-98a1-adee82e2b329)
 
 ### RobiniaDocs is a free documentation hosting platform for .NET Core projects
 
