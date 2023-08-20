@@ -9,10 +9,10 @@
 ### RobiniaDocs is a free documentation hosting platform for .NET Core projects
 
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
-RobiniaDocs is a simple documentation hosting platform for .NET Core projects
-
-**[RobiniaDocs - Website](https://www.robiniadocs.com)**\
-**[RobiniaDocs - Tutorial](https://www.robiniadocs.com/d/robiniadocs/articles/intro.html)**
+RobiniaDocs is a simple documentation hosting platform for .NET Core projects\
+Main idea behind RobiniaDocs is to provide fast and easy to use project documentation website\
+that can be used as a default documentation website or temporary documentation platform\
+if Your project does not have any documents explorer yet. Only this is needed is nuget package name
 
 ---
 
