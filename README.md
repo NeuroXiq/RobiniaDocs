@@ -8,10 +8,15 @@
 
 ### RobiniaDocs is a free documentation hosting platform for .NET Core projects
 
+RobiniaDocs allows to host project API explorer from Nuget Package Name
+
+1. Open www.robiniadocs.com and signin by Github account
+2. Create a project with Nuget Package Name
+3. Rebuild Project
+
+Docfx API explorer is hosted online
+
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
-RobiniaDocs is a simple documentation hosting platform for .NET Core projects\
-\
-Main idea behind RobiniaDocs is to provide fast and easy to use project documentation platform.\
 RobiniaDocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
 Only thing  needed is nuget package name.
 
@@ -26,16 +31,6 @@ Adventages of using Robinia:
 Example: 
 - [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
 - [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
-
-# Create Documentation by RobiniaDocs
-To host API explorer by RobiniaDocs:
-
-1. Open to www.robiniadocs.com
-2. Open 'My account' -> Create Project
-3. Give a project name and  nuget package name
-4. Rebuild Project
-
-Now project is ready and available on RobiniaDocs
 
 # Create Documentation from Pull Request
 To host API explorer without registering on RobiniaDocs, please create a new pull request.
