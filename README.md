@@ -17,11 +17,10 @@ RobiniaDocs is a simple documentation hosting platform for .NET Core projects
 ---
 
 Adventages of using Robinia:
-- Robinia generates [sitemap.xml](https://www.robiniadocs.com/api/other/sitemaps/sitemap.xml) to facilitate web crawlers index Your project more easily
-- Centralized place for hosting API explorer/documentation online
+- Robinia generates [sitemap.xml](https://www.robiniadocs.com/api/other/sitemaps/sitemap.xml)
+- Very easy configuration - only nuget package needed
 - No need to maintain code for documents generation and publishing
-
-RobiniaDocs tries to be as simple as possible, You can host API Explorer in 2 minutes (please see first video).\
+- 
 **Its 100% free**.
 
 Example: 
