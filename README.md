@@ -20,7 +20,6 @@ Adventages of using Robinia:
 - Robinia generates [sitemap.xml](https://www.robiniadocs.com/api/other/sitemaps/sitemap.xml)
 - Very easy configuration - only nuget package needed
 - No need to maintain code for documents generation and publishing
-- 
 **Its 100% free**.
 
 Example: 
