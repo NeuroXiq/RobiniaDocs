@@ -27,6 +27,16 @@ Example:
 - [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
 - [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
 
+# Create Documentation by RobiniaDocs
+To host API explorer by RobiniaDocs:
+
+1. Open to www.robiniadocs.com
+2. Open 'My account' -> Create Project
+3. Give a project name and  nuget package name
+4. Rebuild Project
+
+Now project is ready and available on RobiniaDocs
+
 # Create Documentation from Pull Request
 To host API explorer without registering on RobiniaDocs, please create a new pull request.
 1. Edit 'projects.md' file and add a new row in the  table
