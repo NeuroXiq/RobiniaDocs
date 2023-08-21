@@ -28,10 +28,6 @@ Adventages of using Robinia:
 - No need to maintain code for documents generation and publishing
 **Its 100% free**.
 
-Example: 
-- [Youtube - Host Docfx API browser on RobiniaDocs](https://youtu.be/sfeM43I_KaU)
-- [Youtube - Docfx editor on RobiniaDocs](https://youtu.be/5fSAA1hmpUo)
-
 # Create Documentation from Pull Request
 To host API explorer without registering on RobiniaDocs, please create a new pull request.
 1. Edit 'projects.md' file and add a new row in the  table
