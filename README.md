@@ -8,7 +8,7 @@
 
 ### RobiniaDocs is a free documentation hosting platform for .NET Core projects
 Point of using RobiniaDocs:\
-If Your project does not have any API Explorer You can generate and host documentation from Nuget Package Name in less than 2 minutes.
+If Your project does not have any API Explorer You can generate and host documentation from Nuget Package Name in 1 minute.
 
 1. Open www.robiniadocs.com and signin by Github account
 2. Create a project with Nuget Package Name
