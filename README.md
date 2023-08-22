@@ -12,7 +12,7 @@ and what methods are exposed I needed to open a code and open each .cs file just
 Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.\
 **RobiniaDocs allows to generate and host Docfx documentation from Nuget Package Name in 1 minute**
 
-1. Open www.robiniadocs.com and signin by Github account
+1. Open www.robiniadocs.com and signin with Github account
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
