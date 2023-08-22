@@ -9,8 +9,8 @@
 ## Motivation
 Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
 and what methods are exposed I needed to open a code and open each .cs file just to simply look what functions and methods are there.
-Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.
-** RobiniaDocs allows to generate and host Docfx project from Nuget Package Name in 1 minute**
+Also there was not any website that allows me to just simply generate and host documentation for my .NET Core project online.\
+**RobiniaDocs allows to generate and host Docfx project from Nuget Package Name in 1 minute**
 
 1. Open www.robiniadocs.com and signin by Github account
 2. Create a project with Nuget Package Name
