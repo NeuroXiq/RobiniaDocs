@@ -1,5 +1,5 @@
-# Welcome on RobiniaDocs!
-### Free online documentation hosting platform for .NET projects
+# RobiniaDocs! - Awesome .NET Core projects with documentation
+### List of awesome .NET Core projects with documentation online
 
 ## **[RobiniaDocs - Website](https://www.robiniadocs.com)** | **[RobiniaDocs - Tutorial](https://www.robiniadocs.com/d/robiniadocs/articles/intro.html)**
 
@@ -58,7 +58,7 @@ Nuget Package Name: Arctium.Shared
 
 ---
 
-### Example deployed projects:
+### Projects list:
 
 |Name|Robinia Url|Github|
 |-|-|-|
