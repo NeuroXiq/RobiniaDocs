@@ -1,4 +1,4 @@
-# RobiniaDocs! - Awesome .NET Core projects with documentation
+# RobiniaDocs - Awesome .NET Core projects with documentation
 ### List of awesome .NET Core projects with documentation online
 
 ## **[RobiniaDocs - Website](https://www.robiniadocs.com)** | **[RobiniaDocs - Tutorial](https://www.robiniadocs.com/d/robiniadocs/articles/intro.html)**
