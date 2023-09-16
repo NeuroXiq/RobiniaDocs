@@ -30,12 +30,13 @@ RobiniaDocs can be used as a *default project documentation* or *temporary docum
 Only thing  needed is nuget package name.
 
 > shields.io badge informations:\
-> Badge on shields.io can be generated with any parameters that\
-> but as an example I generated badge with following parameters:\
+> Badge on shields.io can be generated with any parameters\
+> but as an example above I generated badge with following parameters:\
 > badgeContent: API Documentation-RobiniaDocs-43bc00\
 > logo: readme\
 > logoColor: white\
-> link: https://www.robiniadocs.com/d/arctium-shared/index.html\
+> Result in markdown should be written in following way:\
+> \[!\[Static Badge\](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
 
 ---
 
