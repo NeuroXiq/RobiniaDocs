@@ -18,7 +18,7 @@ Also there was not any website that allows me to just simply generate and host d
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
-Docfx API explorer is hosted online.\
+Docfx API explorer is hosted online.
 
 Url to documentation can be shared in any form, for example:
 1. Put RobiniaDocs API Explorer URL to github project README 
