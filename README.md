@@ -69,8 +69,10 @@ Nuget Package Name: Arctium.Shared
 > logo: readme\
 > logoColor: white\
 > Result in markdown should be written in following way:\
-> \[!\[Static Badge\](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
 
+```
+[![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
+```
 
 ---
 ### Projects list:
