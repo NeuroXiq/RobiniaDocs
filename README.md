@@ -29,13 +29,13 @@ If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
 Only thing  needed is nuget package name.
 
-> shields.io badge informations
-> Badge on shields.io can be generated with any parameters that
-> but as an example I generated badge with following parameters:
-> badgeContent: API Documentation-RobiniaDocs-43bc00
-> logo: readme
-> logoColor: white
-> link: https://www.robiniadocs.com/d/arctium-shared/index.html
+> shields.io badge informations:\
+> Badge on shields.io can be generated with any parameters that\
+> but as an example I generated badge with following parameters:\
+> badgeContent: API Documentation-RobiniaDocs-43bc00\
+> logo: readme\
+> logoColor: white\
+> link: https://www.robiniadocs.com/d/arctium-shared/index.html\
 
 ---
 
