@@ -29,15 +29,6 @@ If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
 Only thing  needed is nuget package name.
 
-> shields.io badge informations:\
-> Badge on shields.io can be generated with any parameters\
-> but as an example above I generated badge with following parameters:\
-> badgeContent: API Documentation-RobiniaDocs-43bc00\
-> logo: readme\
-> logoColor: white\
-> Result in markdown should be written in following way:\
-> \[!\[Static Badge\](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
-
 ---
 
 Adventages of using Robinia:
@@ -71,7 +62,17 @@ Nuget Package Name: Arctium.Shared
 ```
 
 ---
+> shields.io badge informations:\
+> Badge on shields.io can be generated with any parameters\
+> but as an example above I generated badge with following parameters:\
+> badgeContent: API Documentation-RobiniaDocs-43bc00\
+> logo: readme\
+> logoColor: white\
+> Result in markdown should be written in following way:\
+> \[!\[Static Badge\](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
 
+
+--
 ### Projects list:
 
 |Name|Robinia Url|Github|
