@@ -18,7 +18,7 @@ Also there was not any website that allows me to just simply generate and host d
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
-Docfx API explorer is hosted online
+Docfx API explorer is hosted online. Now You can copy Your API url e.g. to README file of Your project
 
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
