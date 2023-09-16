@@ -18,11 +18,24 @@ Also there was not any website that allows me to just simply generate and host d
 2. Create a project with Nuget Package Name
 3. Rebuild Project
 
-Docfx API explorer is hosted online. Now You can copy Your API url e.g. to README file of Your project
+Docfx API explorer is hosted online.\
+
+Url to documentation can be shared in any form, for example:
+1. Put RobiniaDocs API Explorer URL to github project README 
+2. Generate shields.io badge with Project API Explorer, for example: ![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white&link=https%3A%2F%2Fwww.robiniadocs.com%2Fd%2Farctium-shared%2Findex.html)
+3. Or anything other
 
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
 RobiniaDocs can be used as a *default project documentation* or *temporary documentation* for projects that does not have  any documentation yet.\
 Only thing  needed is nuget package name.
+
+> shields.io badge informations
+> Badge on shields.io can be generated with any parameters that
+> but as an example I generated badge with following parameters:
+> badgeContent: API Documentation-RobiniaDocs-43bc00
+> logo: readme
+> logoColor: white
+> link: https://www.robiniadocs.com/d/arctium-shared/index.html
 
 ---
 
