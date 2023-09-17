@@ -68,7 +68,7 @@ Nuget Package Name: Arctium.Shared
 > badgeContent: API Documentation-RobiniaDocs-43bc00\
 > logo: readme\
 > logoColor: white\
-> Result in markdown should be written in following way:\
+> Ready to copy-paste markdown badge (only replace 'WWWROBINIADOCSCOM/API_EXPLORER_LINK' with valid url):
 
 ```
 [![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
