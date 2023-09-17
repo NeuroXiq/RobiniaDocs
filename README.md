@@ -22,7 +22,7 @@ Docfx API explorer is hosted online.
 
 Url to documentation can be shared in any form, for example:
 1. Put RobiniaDocs API Explorer URL to github project README 
-2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](https://www.robiniadocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html)
+2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](https://www.robiniadocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) (look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)
 3. Or anything other
 
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
