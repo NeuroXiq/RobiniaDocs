@@ -1,11 +1,10 @@
 # Welcome on RobiniaDocs!
 ### RobiniaDocs is a free online documentation hosting platform for .NET Core projects
 
-## **[RobiniaDocs - Website](https://www.robiniadocs.com)** | **[RobiniaDocs - Tutorial](https://www.robiniadocs.com/d/robiniadocs/articles/intro.html)**
-
 ![image](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/c5f849ed-2c78-4eca-98a1-adee82e2b329)
 ![Recording 2023-05-17 114929](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
 
+**[RobiniaDocs - Website](https://www.robiniadocs.com)**
 ## Motivation
 Looking on github C# repositories lots of them did  not have any documentation online. To take a look on basic project structure
 and what methods are exposed I needed to open a code and open each .cs file just to simply look what functions and methods are there.
