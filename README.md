@@ -20,7 +20,7 @@ Docfx API explorer is hosted online.
 
 Url to documentation can be shared in any form, for example:
 1. Put RobiniaDocs API Explorer URL to github project README 
-2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](https://www.robiniadocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
+2. Generate shields.io badge with Project API Explorer, for example: [![Static Badge](https://img.shields.io/badge/API%20Docs-RobiniaDocs-43bc00?logo=readme&logoColor=white)](https://www.robiniadocs.com/d/arctium/api/Arctium.Standards.Connection.Tls.Tls13.API.Tls13ClientConfig.html) _(look below in this document for 'shields.io badge informations' to see how to generate exactly same badge)_
 3. Or anything other
 
 If You have a small or medium size .NET Core project - try RobiniaDocs!\
@@ -63,13 +63,13 @@ Nuget Package Name: Arctium.Shared
 > shields.io badge informations:\
 > Badge on shields.io can be generated with any parameters\
 > but as an example above I generated badge with following parameters:\
-> badgeContent: API Documentation-RobiniaDocs-43bc00\
+> badgeContent: API Docs-RobiniaDocs-43bc00\
 > logo: readme\
 > logoColor: white\
 > Ready to copy-paste markdown badge (only replace 'WWWROBINIADOCSCOM/API_EXPLORER_LINK' with valid url):
 
 ```
-[![Static Badge](https://img.shields.io/badge/API%20Documentation-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
+[![Static Badge](https://img.shields.io/badge/API%20Docs-RobiniaDocs-43bc00?logo=readme&logoColor=white)](WWWROBINIADOCSCOM/API_EXPLORER_LINK)
 ```
 
 ---
