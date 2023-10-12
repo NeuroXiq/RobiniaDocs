@@ -1,7 +1,7 @@
 # Welcome on RobiniaDocs!
 ### RobiniaDocs is a free online documentation hosting platform for .NET Core projects
 
-![image](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/c5f849ed-2c78-4eca-98a1-adee82e2b329)
+![dndocs-howtouse](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/e6ae701d-02de-4116-870a-8cc7dcaf5c63)
 ![Recording 2023-05-17 114929](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
 
 ## Motivation
@@ -33,6 +33,9 @@ Adventages of using Robinia:
 - Robinia generates [sitemap.xml](https://www.robiniadocs.com/api/other/sitemaps/sitemap.xml)
 - Very easy configuration - only nuget package needed
 - No need to maintain code for documents generation and publishing
+- Automatic rebuild MD docs from github
+- Automatic rebuild Nuget Pakcages to latests
+- No actions needed after creating docs - all upgrades are autmated
 
 # Create Documentation from Pull Request
 To host API explorer without registering on RobiniaDocs, please create a new pull request.
