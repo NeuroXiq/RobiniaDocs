@@ -66,7 +66,7 @@ Nuget Package Name: Arctium.Shared
 > shields.io badge informations:\
 > Badge on shields.io can be generated with any parameters\
 > but as an example above I generated badge with following parameters:\
-> badgeContent: DNDocs-RobiniaDocs-190088\
+> badgeContent: API Docs-DNDocs-190088\
 > logo: readme\
 > logoColor: white\
 > Ready to copy-paste markdown badge (only replace 'WWWROBINIADOCSCOM/API_EXPLORER_LINK' with valid url):
