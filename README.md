@@ -36,6 +36,7 @@ Adventages of using Robinia:
 - Automatic rebuild MD docs from github
 - Automatic rebuild Nuget Pakcages to latests
 - No actions needed after creating docs - all upgrades are autmated
+- Supports multiple Docfx templates (darkfx, discordfx, docfx-minimal-main, material, unit)
 
 # Create Documentation from Pull Request
 To host API explorer without registering on RobiniaDocs, please create a new pull request.
