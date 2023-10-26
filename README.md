@@ -1,5 +1,4 @@
 # Welcome on RobiniaDocs!
-### RobiniaDocs is a free online documentation hosting platform for .NET Core projects
 
 ![dndocs-howtouse](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/e6ae701d-02de-4116-870a-8cc7dcaf5c63)
 ![Recording 2023-05-17 114929](https://github.com/NeuroXiq/RobiniaDocs/assets/19374897/f8fbe700-3ef6-4110-b19d-ce9a07248e01)
